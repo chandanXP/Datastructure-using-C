@@ -1,3 +1,7 @@
+//Linear search and Binary Search
+
+//Name: Chandan, Rollno: 045
+
 #include<stdio.h>
 
 int linearSearch(int arr[], int size, int element){
@@ -42,7 +46,7 @@ int main(){
      int arr[] = {1,3,5,7,9,56,574,594,599,632};
      int size = sizeof(arr)/sizeof(int);
 
-     int element = 6;
+     int element = 7;
      // int searchIndex = linearSearch(arr,size,element);
      int searchIndex = binarySearch(arr,size,element);
 

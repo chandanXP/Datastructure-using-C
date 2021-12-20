@@ -1,4 +1,7 @@
 //ALL OPERTIONS ON LINKED LIST
+
+//Name: Chandan, RollNo: 045
+
 #include <stdio.h>
 #include <stdlib.h>
 

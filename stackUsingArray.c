@@ -1,3 +1,7 @@
+//forming a stack using array
+
+//Name: Chandan, RollNo: 045
+
 #include<stdio.h>
 #include<stdlib.h>
 

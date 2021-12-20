@@ -1,4 +1,7 @@
-//Insertion in BST
+//Insertion, Traverse, verification and Deletion in BST
+
+//Name: Chandan, RollNo: 045
+
 #include<stdio.h>
 #include<stdlib.h>
 

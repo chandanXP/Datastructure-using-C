@@ -1,4 +1,7 @@
 //All operations in stack
+
+//Name: Chandan, RollNo: 045
+
 #include <stdio.h>
 #include<stdlib.h>
 

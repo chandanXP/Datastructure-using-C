@@ -1,3 +1,7 @@
+//finding minimum and Maximum value from a BST
+
+//Name: Chandan, RollNo: 045
+
 #include <stdio.h>
 #include <stdlib.h>
 

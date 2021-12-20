@@ -1,4 +1,7 @@
 //operations in stack and parenthesis
+
+//Name: Chandan, RollNo: 045
+
 #include <stdio.h>
 #include<stdlib.h>
 // you have to write the required header file name even it is also a header file.

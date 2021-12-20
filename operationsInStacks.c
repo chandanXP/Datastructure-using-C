@@ -1,4 +1,7 @@
 //operations in stack and parenthesis
+
+//Name: Chandan, RollNo: 045
+
 #include <stdio.h>
 #include<stdlib.h>
 #include "myStackADT.h"//You have to put your header file name in " "(quotes) no ';'
